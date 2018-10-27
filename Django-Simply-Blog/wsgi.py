@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DjangoBeginnertoMaster.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Django-Simply-Blog.settings')
 
 application = get_wsgi_application()

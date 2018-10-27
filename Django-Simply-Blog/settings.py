@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'DjangoBeginnertoMaster.urls'
+ROOT_URLCONF = 'Django-Simply-Blog.urls'
 
 TEMPLATES = [
     {
